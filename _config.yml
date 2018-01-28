@@ -9,7 +9,7 @@ baseurl:
 
 # Website info
 title: 개발이다
-description: The professional publishing platform
+description: #기록하자 #기억하자 #실천하자
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
