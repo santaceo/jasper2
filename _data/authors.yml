@@ -1,3 +1,13 @@
+santaceo:
+  username: santaceo
+  name: Santaceo
+  url_full: http://santaceo.github.io/
+  url: santaceo.github.io/
+  bio: The Novice User
+  picture: assets/images/santaceo.png
+  facebook: santaceo
+  twitter: santaceo
+  cover: False
 ghost:
   username: ghost
   name: Ghost
