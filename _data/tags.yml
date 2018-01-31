@@ -14,7 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
-Github-Pages:
-  name: Github-Pages
+Github:
+  name: Github
   description: False
   cover: False  
